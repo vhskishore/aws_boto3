@@ -2,7 +2,7 @@
 Import-Module AzureAD
 
 # Get the tenant ID
-$tenantId = "d560ccf6-d51e-41aa-aa59-23245f28e3a4"
+$tenantId = ""
 
 # Get the credentials
 $credentials = Get-Credential
